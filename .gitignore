@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Optional: If you use a build directory
+dist/
+build/
